@@ -51,12 +51,16 @@ _Jan 2022 - May 2023_
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Developer Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefanopitto&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanopitto&layout=compact&theme=radical" alt="top langs" />
-</p>
+- 📱 Over 10 mobile apps published on Google Play & App Store  
+- 🧠 3+ years of experience building modern web and mobile frontends  
+- 🚀 Stack: React, React Native, TypeScript, GraphQL, AWS  
+- 📈 100K+ total users across production apps  
+- 🤖 Currently learning AI with Transformers, LangChain and Python  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanopitto&layout=compact&theme=radical)
+
 
 ---
 
