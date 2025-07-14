@@ -10,8 +10,8 @@
 ### 🚀 About Me
 
 Experienced Front-End Developer focused on mobile and web development.  
-Apasionado por crear experiencias intuitivas, accesibles y con buen diseño.  
-Me gusta codear cosas copadas, resolver problemas y aprender IA 🤖
+Passionate about building intuitive, accessible, and beautifully designed user experiences.  
+I love coding cool stuff, solving problems, and learning AI 🤖
 
 ---
 
@@ -35,19 +35,19 @@ Me gusta codear cosas copadas, resolver problemas y aprender IA 🤖
 
 **🔹 HitOcean**  
 _Oct 2024 - Present_  
-• Desarrollo de una app web para crear y gestionar listas de regalos.  
-• Nuevas features y mantenimiento de la app móvil de Infocasas (100K+ downloads y 4.5⭐).
+• Building a web app to create and manage gift lists.  
+• Added features and maintained the Infocasas mobile app (100K+ downloads and 4.5⭐ rating).
 
 **🔹 QKStudio**  
 _May 2023 - Oct 2024_  
-• +10 apps móviles publicadas (Google Play & App Store).  
-• E-commerce y mejoras UX/UI en backoffice.  
-• Desarrollo web en React.
+• Released over 10 mobile apps (Google Play & App Store).  
+• Worked on e-commerce platforms and improved back-office UX/UI.  
+• Developed multiple React web apps.
 
 **🔹 Tonomy Foundation**  
-_Ene 2022 - May 2023_  
-• Apps web y mobile orientadas a identidad digital y autenticación descentralizada.  
-• Enfoque fuerte en seguridad y Web3.
+_Jan 2022 - May 2023_  
+• Developed web and mobile apps focused on digital identity and decentralized authentication.  
+• Strong focus on Web3 and user security.
 
 ---
 
@@ -64,5 +64,5 @@ _Ene 2022 - May 2023_
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/stefanopitto)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/stefanopitto)  
-📩 stefanopitto1@gmail.com  
+📩 stefanopitto1@gmail.com
 
