@@ -3,7 +3,6 @@
 <p align="center">
   💻 Front End Developer | React & React Native <br/>
   📍 Argentina | 🇦🇷 <br/>
-  ✈️ Explorando el mundo con código <br/>
 </p>
 
 ---
